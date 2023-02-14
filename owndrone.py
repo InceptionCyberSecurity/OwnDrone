@@ -7,6 +7,7 @@ import subprocess
 import time
 
 # skyjack dronesploit
+# install sudo aireplay airmon aircrack airodump ifconfog iwconfig dhclient
 
 # get command line arguments
 parser = argparse.ArgumentParser(description='hawkdrone main function')
@@ -16,6 +17,7 @@ parser.add_argument('wlan2', nargs='?', default='wlan2', metavar='wlan2', help='
 args = parser.parse_args()
 
 # mac addresses of Parrot drones
+# this part could be AI; learn the MAC adresses and proceed to hack into
 parrot_macs = ['90:03:B7', 'A0:14:3D', '00:12:1C', '00:26:7E']
 
 # initialize main variables
