@@ -12,3 +12,6 @@ The original code is written by ArcadeusOPS, who are not responsible for misuse 
 ## License
 MIT License
 Copyright (c) ArcadeusOPS
+
+# Bugs
+Send issues to info@arcadeusops.com stating nature of issue. A screenshot will help too. Thanks.
