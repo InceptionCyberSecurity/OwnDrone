@@ -6,7 +6,7 @@ import shlex
 import subprocess
 import time
 
-# skyjack dronesploit
+# skyjack dronesploit additions
 # install sudo aireplay airmon aircrack airodump ifconfog iwconfig dhclient
 
 # get command line arguments
