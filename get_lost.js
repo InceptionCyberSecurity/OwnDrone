@@ -13,7 +13,7 @@ client.disableEmergency();
 
 
   client.animate('flipLeft', 1000);
-  
+
 
   client
 
@@ -47,4 +47,3 @@ client.disableEmergency();
       this.stop();
       this.land();
     })
-
