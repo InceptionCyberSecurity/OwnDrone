@@ -6,9 +6,7 @@ import shlex
 import subprocess
 import time
 
-# skyjack dronesploit additions
-# install sudo aireplay airmon aircrack airodump ifconfog iwconfig dhclient
-# use on Kali Linux
+# skyjack dronesploit additions; install sudo aireplay airmon aircrack airodump ifconfog iwconfig dhclient; use on Kali Linux
 
 # get command line arguments
 parser = argparse.ArgumentParser(description='hawkdrone main function')
